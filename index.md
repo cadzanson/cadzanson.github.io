@@ -3,8 +3,6 @@ title: Home
 layout: page
 ---
 
-# Bootstrap Workshop Template!
-
 {% include figure.html img="lincoln_lat95.jpg" alt="intro image here" caption="Lincoln College MS Lat. 95" width="100%" %}
 
 A minimal Jekyll theme with Bootstrap for creating workshop websites.
