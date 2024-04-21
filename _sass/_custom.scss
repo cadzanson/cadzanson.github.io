@@ -1,1 +1,19 @@
 /* add your tweaks here! */
+@media (prefers-color-scheme: dark) {
+    :root {
+      --body-color: var(--gray-300);
+      --body-bg: var(--gray-800);
+  
+      --heading-color: #fff;
+  
+      // --link-color: var(--red);
+      // --link-hover-color: var(--red);
+      
+      --link-color: var(--yellow);
+      --link-hover-color: var(--yellow-100);
+  
+      --border-color: rgba(255,255,255,.15);
+  
+      --code-bg: var(--gray-900);
+    }
+  }
