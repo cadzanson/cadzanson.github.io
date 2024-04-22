@@ -2,7 +2,6 @@
 title: Curriculum vitae
 nav: CV
 topics: Career; bibliography
-description: Hightlights my decades long swoon in publishing
 ---
 
 ## Education

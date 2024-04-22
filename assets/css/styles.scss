@@ -12,6 +12,7 @@ $nav-pills: #0d6efd;
 $text-color: #111 !default;
 $link-color: #0d6efd !default;
 $base-font-size: 1.1rem;
+$background-color: #F7F7F7;
 
 // limit container size to make reading easier (optional!)
 $container-max: 750px;
@@ -19,5 +20,3 @@ $container-max: 750px;
 // Import partials.
 @import
   "template", "custom", "bembo";
-
-  
