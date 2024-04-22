@@ -17,6 +17,9 @@ $background-color: #F7F7F7;
 // limit container size to make reading easier (optional!)
 $container-max: 750px;
 
+// Pull in fonts
+$base-font-family: bembo_book;
+
 // Import partials.
 @import
   "template", "custom", "bembo";
