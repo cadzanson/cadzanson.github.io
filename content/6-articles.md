@@ -1,5 +1,6 @@
 ---
 title: Articles
+nav: Articles
 ---
 
 # Archive
