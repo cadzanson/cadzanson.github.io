@@ -1,10 +1,10 @@
 ---
-layout: post-no-feature
+layout: post
 title: "Image in Post"
 description: "Once when I was six years old I saw a magniﬁcent picture in a book, called
 True Stories from Nature, about the primeval forest."
 comments: true
-category: articles
+topics: reading
 ---
 
  It was a picture of a boa constrictor in the act of swallowing an animal. Here is a copy of the drawing:
