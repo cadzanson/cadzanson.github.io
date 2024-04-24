@@ -50,7 +50,7 @@ Saint Joseph’s College, Rensselaer, IN: Assistant Professor of Philosophy and 
 
 “Aquinas’s Summa theologiae as Pedagogy,” in Joseph W. Koterski, S.J. and Ronald Begley, eds., *Medieval Education* (Bronx, NY: Fordham University Press, 2005), pp. 133-142.
 
-“La «Summa de poenitentia» attribuita a Paolo Ungaro,” in L’origine dell’Ordine dei Predicatori e l’Università di Bologna, Collana «Philosophia» 32, Giovanni Bertuzzi, OP, ed., (Bologna: Edizioni Studio Domenicano, 2006), pp. 136-145. Same as article with identical title below, in Divus Thomas.
+“La «Summa de poenitentia» attribuita a Paolo Ungaro,” in *L’origine dell’Ordine dei Predicatori e l’Università di Bologna*, Collana «Philosophia» 32, Giovanni Bertuzzi, OP, ed., (Bologna: Edizioni Studio Domenicano, 2006), pp. 136-145. Same as article with identical title below, in Divus Thomas.
 
 “Augustine and Aquinas on Original Sin: Doctrine, Authority, and Pedagogy,” in *Aquinas the Augustinian*, eds. Michael Dauphinais, Barry David, Matthew Levering (Washington, DC: Catholic University of America Press, 2007), pp. 145-158.
 
@@ -64,17 +64,17 @@ Saint Joseph’s College, Rensselaer, IN: Assistant Professor of Philosophy and 
 
 “Immateriality and the Domain of Thomistic Natural Philosophy,” *The Modern Schoolman* 67 (1990): 285-304.
 
-“Alia lectura fratris Thome: A List of the New Texts of St. Thomas Aquinas found in Lincoln College, Oxford, MS. Lat. 95,” *Recherches de théologie ancienne et médiévale* 57 (1990): 34-61.
+“*Alia lectura fratris Thome*: A List of the New Texts of St. Thomas Aquinas found in Lincoln College, Oxford, MS. Lat. 95,” *Recherches de théologie ancienne et médiévale* 57 (1990): 34-61.
 
 “Does Natural Philosophy Prove the Immaterial? A Rejoinder,” *American Catholic Philosophical Quarterly* 65 (1991): 97-105.
 
 “Aquinas’s Changing Evaluation of Plato on Creation,” *American Catholic Philosophical Quarterly* 66 (1992): 39-46.
 
-“A Note on the Dating of St. Thomas Aquinas’s Expositio super primam et secundam decretalem,” *Recherches de théologie ancienne et médiévale* 59 (1992): 155-165.
+“A Note on the Dating of St. Thomas Aquinas’s *Expositio super primam et secundam decretalem*,” *Recherches de théologie ancienne et médiévale* 59 (1992): 155-165.
 
 “Another Look at St. Thomas and the Plurality of the Literal Sense of Scripture,” *Medieval Philosophy and Theology* 2 (1992): 118-42.
 
-“Proportionalism and a Text of the Young Aquinas: Quodlibetum IX, q. 7, a. 2,” *Theological Studies* 53 (1992): 683-699.
+“Proportionalism and a Text of the Young Aquinas: *Quodlibetum* IX, q. 7, a. 2,” *Theological Studies* 53 (1992): 683-699.
 
 “The Principle of Double Effect and Safe Sex in Marriage: Reflections on a Suggestion,” *The Linacre Quarterly* 60 (1993): 82-89.
 
