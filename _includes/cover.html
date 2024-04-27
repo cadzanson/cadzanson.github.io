@@ -9,6 +9,8 @@
 
 {% endcomment %}
 <figure class="figure d-block text-center p-3">
+    <div class="image" style="background-image:url(lincoln_lat95.jpg)"></div>
     <img src="{% if include.img contains '//' %}{{ include.img }}{% else %}{{ include.img | prepend: '/images/' | relative_url }}{% endif %}" alt="{{ include.alt }}" {% if include.width %}style="width:{{ include.width }};" {% endif %}class="figure-img img-fluid rounded">
     {% if include.caption %}<figcaption class="figure-caption">{{ include.caption }}</figcaption>{% endif %}
 </figure>
+
