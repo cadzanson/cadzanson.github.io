@@ -2,6 +2,7 @@
 title: Articles
 nav: Articles
 description: Browse all posts by month and year.
+topics: Projects; publishing
 ---
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}

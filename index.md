@@ -10,5 +10,6 @@ Hello from Wisconsin, where I teach and research all things Thomas Aquinas at Ma
 {% include toc.html %}
 
 ------
-
+{% comment %}
 {% include template/credits.html %}
+{%- endcomment -%}
