@@ -1,7 +1,6 @@
 ---
 title: Home
 layout: page
-gallery: true
 ---
 
 {% include figure.html img="lincoln_lat95.jpg" alt="Check me out!" caption="Lincoln College MS Lat. 95" width="100%" %}
