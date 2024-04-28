@@ -4,7 +4,7 @@ layout: page
 gallery: true
 ---
 
-{% include gallery-figure.html img="lincoln_lat95.jpg" alt="Check me out!" caption="Lincoln College MS Lat. 95" title="Marco Polo in Vicenza" width="100%" %}
+{% include figure.html img="lincoln_lat95.jpg" alt="Check me out!" caption="Lincoln College MS Lat. 95" width="100%" %}
 
 A minimal Jekyll theme with Bootstrap for creating workshop websites.
 
